@@ -17,6 +17,7 @@ function App() {
         <Episode episode={episode} setepisode={setepisode}/>
         <Answer selected={selected} episode={episode}/>
       </div>
+      <p>このアプリはzuikenが作成しました</p>
     </div>
   )
 }
