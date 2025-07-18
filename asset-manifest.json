@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/seasonDetecter/static/css/main.9833140e.css",
-    "main.js": "/seasonDetecter/static/js/main.c6a397df.js",
+    "main.js": "/seasonDetecter/static/js/main.00fb55a5.js",
     "static/js/453.1a16ed4e.chunk.js": "/seasonDetecter/static/js/453.1a16ed4e.chunk.js",
     "index.html": "/seasonDetecter/index.html",
     "main.9833140e.css.map": "/seasonDetecter/static/css/main.9833140e.css.map",
-    "main.c6a397df.js.map": "/seasonDetecter/static/js/main.c6a397df.js.map",
+    "main.00fb55a5.js.map": "/seasonDetecter/static/js/main.00fb55a5.js.map",
     "453.1a16ed4e.chunk.js.map": "/seasonDetecter/static/js/453.1a16ed4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9833140e.css",
-    "static/js/main.c6a397df.js"
+    "static/js/main.00fb55a5.js"
   ]
 }
