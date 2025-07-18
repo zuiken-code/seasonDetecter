@@ -5,7 +5,7 @@ export const Answer = ({selected,episode}) => {
     var all_season = konan.length;
 
     function detectAnswer(episode){
-        if(episode == "コナン"){
+        if(selected == "コナン"){
             return detect(konan);
         }
     }
@@ -14,7 +14,7 @@ export const Answer = ({selected,episode}) => {
         var num=0;
         var canDetect = false;
         for(let season = 1; season <= all_season; season++){
-            if(data[season-1]["start"] <= episode & episode <= data[season-1]["end"]){
+            if(data[season-1]["start"] <= episode && episode <= data[season-1]["end"]){
                 num = season;
                 canDetect = true;
                 break;
