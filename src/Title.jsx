@@ -9,7 +9,7 @@ export const Title = ({selected, setselected}) => {
       <div>
       <input list="fruits" placeholder="チェックしたいアニメを選んでね" onChange={handleChange} value={selected}/>
       <datalist id="fruits">
-        <option value={selected} />
+        <option value="コナン" />
       </datalist>
       </div>
     </div>
